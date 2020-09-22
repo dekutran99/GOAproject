@@ -1,4 +1,3 @@
-# GOAproject
-Analyzing World Happiness Ranking data using Bokeh Documentation
+# Analyzing World Happiness Ranking Data
 
 by Huy Tran
